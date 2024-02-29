@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hi, my name is David Gonzalez, my nickname is estarcart, welcome to my profile! :).</p>
+<p align="left">Hi, my name is David Gonzalez, my nickname is estarcart, welcome to my profile! :)</p>
 
 ###
 
