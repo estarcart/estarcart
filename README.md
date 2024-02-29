@@ -12,7 +12,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
