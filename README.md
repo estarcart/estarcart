@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Systems and Computer Engineering Student and Indie Game Developer.<br>📚 I'm currently learning Game Maker Studio 2 and i want to learn C++ and C#<br>🎯 Goals: Work making videogames.</p>
+<p align="left">✨ Systems and Computer Engineering Student and Indie Game Developer.<br>📚 I'm currently learning Game Maker Studio 2 and i want to learn C++<br>🎯 Goals: Work making videogames.</p>
 
 ###
 
