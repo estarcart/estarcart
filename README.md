@@ -1,6 +1,5 @@
 <br clear="both">
 
-<img align="left" height="200" src="https://cdnb.artstation.com/p/users/avatars/003/634/041/large/b5e64121821f1bc7882670d096c2a1ce.jpg?1631950398"  />
 
 ###
 
